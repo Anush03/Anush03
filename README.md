@@ -1,17 +1,30 @@
 <!-- <h3 align="center">Hi 👋, I'm Anush Shinde</h3> -->
-<b>Hi 👋, I'm Anush, a Software developer</b>
+<p style="font-family: Times New Roman, Times, serif;">Hi 👋, I'm Anush, a Software dev proficient in a variety of programming languages and tools, including React.JS, TypeScript, JavaScript, Next.JS, Java, C, C++, HTML, CSS, SQL, Jenkins, Jira, and Git. Skilled in gathering requirements, analyzing information, and delivering productive solutions. Passionate about continuous learning and growth in dynamic environments.</p>
+
+ <p>&nbsp;</p> 
+<p></p> 
 
 <h6 align="left">Connect with me:</h6>
-<p align="left">
+<!-- <p align="left">
 <a href="https://linkedin.com/in/anushshinde30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="anushshinde30" height="25" width="25" /></a>
-</p>
+ </p> -->
+ <a href="https://linkedin.com/in/anushshinde30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushshinde30" height="30" width="40" /></a> &nbsp;&nbsp;
+ <a href="https://dev.to/ars_3010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ars_3010" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/anushshinde30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anushshinde30" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://medium.com/@anushshinde03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anushshinde03" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.hackerrank.com/anushshinde2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anushshinde2019" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.leetcode.com/a3s0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a3s0" height="30" width="40" /></a> &nbsp;&nbsp;
 
+</p>
+<p>&nbsp;</p> 
+<p></p> 
 <h6 align="left">Languages and Tools:</h6>
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> </a> &nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/> </a> &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a>  &nbsp;&nbsp;
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/> </a>  &nbsp;&nbsp;
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a>  &nbsp;&nbsp;
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="25" height="25"/> </a>  &nbsp;&nbsp;
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a>  &nbsp;&nbsp;
@@ -25,4 +38,13 @@
 
  </p>
 
+ <p>&nbsp;</p> 
+<p></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anush03&show_icons=true&locale=en&layout=compact" alt="anush03" style="width: 300px; height:150px;"  /></p>
+
+ <p>&nbsp;</p> 
+<p></p> 
  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
+ <p>&nbsp;</p> 
+<p></p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anush03&label=Profile%20views&color=0e75b6&style=flat" alt="anush03" /> </p>
